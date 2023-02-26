@@ -1,0 +1,18 @@
+john|18|123 apple street|514 428-3452 
+katya| 26|49 queen mary road|514 234-7654 
+ahmad|91|1888 pepper lane|514 839-4170 
+samira|21| 4367 merchand street|514 111-7373 
+linda|43|4471 brooklyn avenue| 
+bob|51|54 rolling street|514 625-4999 
+lisa|24|124 hummingbird avenue|514 881-6123 
+erik|81| | 514 991-1123 samuel||6124 headshok street| 
+fatima|36| 8117 calrose avenue| 514 654-1362 
+jan| 29| 51 hector boulevard| 514 213-7843 
+leo|41|| 514 168-4100 romin|| 664 bear avenue| 
+simon|23| 441 mocking boulevard|514 101-4988 
+katrin|55| 17 queen mary road|514 617-4465 
+joel| 40|| 514 116-9468 
+rafael|76| 1780 carpenter avenue| 514 609-1469 
+alex|20| 4118 eagle street| 
+salma|60|4711 oasis street| 514 660-2956 
+eleonor|39|21 jump street| 514 101-7988 
