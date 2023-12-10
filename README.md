@@ -5,7 +5,7 @@ There are 3 files : A client file, A server file and a text file that holds the 
 
 First, you should run the server file, and then, when the server file is running, run the client file in a new instance.
 
-You will be prompter by a menu with choice to modify the database, you can take a look at the text file to see how the
+You will be prompted by a menu with choice to modify the database, you can take a look at the text file to see how the
 data is written. 
 For your information, this is the model for each customer : name|age|address|phone 
 It is possible that a client has an information missing, but the name will always be present. 
